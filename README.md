@@ -172,5 +172,3 @@ Found a better query? Have suggestions for deeper analysis?
 📬 Open an **Issue** or **Pull Request** anytime
 
 ---
-
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming ☕
